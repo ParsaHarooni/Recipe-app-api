@@ -11,4 +11,3 @@ COPY ./app /app
 
 RUN adduser -D admin
 USER admin
-
